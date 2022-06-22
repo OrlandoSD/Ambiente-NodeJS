@@ -1,0 +1,23 @@
+{
+  "name": "primeira-aula",
+  "version": "1.0.0",
+  "description": "projeto para treinar e iniciar no Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrlandoSD/Ambiente-NodeJS.git"
+  },
+  "keywords": [
+    "javascript;node"
+  ],
+  "author": "OrlandoSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrlandoSD/Ambiente-NodeJS/issues"
+  },
+  "homepage": "https://github.com/OrlandoSD/Ambiente-NodeJS#readme"
+}
